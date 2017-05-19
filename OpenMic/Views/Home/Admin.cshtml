@@ -1,0 +1,75 @@
+﻿@model IEnumerable<OpenMic.Models.Track>
+
+@{
+    ViewBag.Title = "Admin Panel";
+}
+<h2>Admin Panel</h2>
+<h4><b> Welcome Administrator! let's manage things around...</b></h4>
+<p>
+    <table style="height: 80px;">
+        @{Html.BeginForm("Admin", "Home");}
+        <b>Enter a user's E-mail in order to:</b>
+        <tr>
+            <td>make him an admin:</td>
+            <td>@Html.TextBox("Email1", "      User->Admin")</td>
+        </tr>
+        <tr>
+            <td>make him a simple user:</td>
+            <td>@Html.TextBox("Email2", "       Admin->User")</td>
+    </table>
+    <input type="submit" value="Change his settings" />
+    <div style="color:red;">
+        @ViewBag.msg
+    </div>
+</p><br />
+<td>
+    <div class="manageTracks">
+        @{int i = 1;}
+        <table class="table">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @{var pic = Html.DisplayFor(modelItem => item.Artists.Img);}
+                        <img src="@pic" width="80" height="80" />   <br />
+                        @Html.DisplayFor(modelItem => item.Artists.Name)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title) &nbsp;&nbsp;
+                        @Html.Label(item.Date.ToShortDateString())
+                        <br />
+                        @{var vid = Html.DisplayFor(modelItem => item.Video);}
+
+                        <div class="videoDiscover">
+                            <iframe width="300" height="170" src=@vid frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </td>
+                    <td>
+                        <br /><br /><b>Genre:</b>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                        <br />Gold:@Html.DisplayFor(modelItem => item.Gold)    |   Trash:@Html.DisplayFor(modelItem => item.Trash)  |   Ranked:@Html.DisplayFor(modelItem => item.TotalRankers)
+                        <br />
+                        @{i++;}
+                        <br />
+
+                        @if ((@ViewBag.CurUserID == item.ArtistsID) || (User.IsInRole("admin")))
+                        {
+
+                            @Html.ActionLink("Edit ", "Edit", "Tracks", new { id = item.ID }, null)
+                            @Html.Label("|")
+                            @Html.ActionLink(" Delete ", "Delete", "Tracks", new { id = item.ID }, null)
+                            @Html.Label("|") }
+                        @Html.ActionLink("Details", "Details", "Tracks", new { id = item.ID }, null)<br />
+                        <b>User's Email: </b>@Html.DisplayFor(modelItem => item.Artists.Email)
+                        <br />
+                        <a href="~/Tracks/thoughtindex?trackId=@item.ID" id="seeAll">Track's Thoughts</a>
+                        <br />
+
+                    </td>
+                    <td></td>
+                </tr>
+            }
+        </table>
+    </div>
+</td>

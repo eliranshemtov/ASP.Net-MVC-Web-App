@@ -1,0 +1,48 @@
+﻿@model IEnumerable<OpenMic.Models.Thought>
+
+@{
+    ViewBag.Title = "Thoughts about...";
+}
+
+<h2> What people thought about...  </h2>
+<h4><b>" @ViewBag.trackName "</b></h4>
+
+<table class="table" style="margin-top:5%;">
+    <tr>
+        <th>
+            Who Thought?
+        </th>
+        <th>
+            What?
+        </th>
+        <th>
+            When?
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td width="80">
+                <img src="@item.users.Img" width="80" height="80" />
+                @Html.DisplayFor(modelItem => item.users.Name)
+            </td>
+            <td width="50%">
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)<br />
+                
+                @{if ((User.IsInRole("admin")) || (@ViewBag.userID==item.ApplicationUserID))
+                {
+                    @Html.ActionLink("===Edit ", "ThougthEdit", new { id = item.ID })
+                    @Html.Label("|")
+                    @Html.ActionLink(" Delete===", "DeleteThought", new { id = item.ID })}
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>

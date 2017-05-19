@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - OpenMic</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("OpenMic", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Discover", "Index", "Tracks")</li>
+                    <li>@Html.ActionLink("Shows", "maps", "Home")</li>
+                    <li>@Html.ActionLink("AdminZone", "Admin", "Home")</li>
+                    
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <aside>
+            <section>
+                <header>
+                        <h3>&nbsp;&nbsp; Open Mic</h3>
+                </header>
+                <ul>
+                    <br />
+                    <li>Welcome to Eliran Shem tov & Keinan Top's Web App!<br /><br /></li>
+
+                    <li><img src="https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11174825_10153282716704883_3960129319377772344_n.jpg?oh=0d8a7d8e130cca8131eba7ddcfd17b56&oe=564F6412" class="AboutPic">
+                        <img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/378495_2800493690627_273257810_n.jpg?oh=a11e71ef53827201fe1bac7223d3787a&oe=564E6F3C&__gda__=1447783797_3efbde3d010b919f9d5c73e917b177fc" class="AboutPic"></li>
+                    <li class="namesLinks"><a href="mailto:eliran.shemtov@gmail.com"> Eliran Shem Tov</a>&nbsp;&nbsp;<a href="mailto:KeinanTop@gmail.com">Keinan Top</a></li>
+                </ul>
+                <div class="vidBlur">
+                    <video controls style="width: 110%; -webkit-border-radius: 11px; ">
+                        <source src=http://techslides.com/demos/sample-videos/small.mp4 type=video/mp4>
+                    </video>
+                </div>
+                <div style="font-size: x-small;">
+                    This is a Video sample that demonstrate HTML5 Video usage.
+                </div>
+
+            </section>
+        </aside>
+        </div>
+
+        <footer>
+                <br />                
+            <table style="width=50%">
+                <tr>
+                    <td>
+                        <p><h4>&nbsp;&nbsp; &copy; @DateTime.Now.Year - OpenMic  </h4>
+                    </td>
+                    <td>
+                        |<a href="mailto:eliran.shemtov@gmail.com"> Eliran Shem Tov</a> |
+                        <a href="mailto:KeinanTop@gmail.com">Keinan Top</a>
+                    </td>
+                    <td><a href="https://www.facebook.com/openmicuk"><img border="0" width="100" height="20" alt="Like Us" src="http://dpmcltd.co.uk/m-tec2013/wp-content/uploads/2013/04/FacebookLogo-1024x340.png" class="fblogo"></a></td>
+                </tr>
+            </table>
+            <br />
+           
+        </footer>
+    
+    
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

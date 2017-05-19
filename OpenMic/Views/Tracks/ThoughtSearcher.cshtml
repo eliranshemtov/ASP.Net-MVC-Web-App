@@ -1,0 +1,61 @@
+﻿@model IEnumerable<OpenMic.Models.Thought>
+
+@{
+    ViewBag.Title = "Thought Searcher";
+}
+
+<h2>Thought Searcher</h2>
+
+<p>
+
+    @using (Html.BeginForm("ThoughtSearcher", "Tracks", FormMethod.Get))
+    {
+    <p>
+        <b> Genre:</b> @Html.DropDownList("trackGenre", "All") &nbsp;
+        <b> Artist:</b> @Html.TextBox("artist") &nbsp;
+        <b> Title:</b> @Html.TextBox("SearchString") &nbsp; <br /><br />
+        <input type="submit" value="Filter" />
+    </p>
+    }
+
+    </p>
+
+    <table class="table" style="width:80%;">
+        <tr>
+            <th>
+               Artist
+            </th>
+            <th>
+                title
+            </th>
+            <th>
+                Content
+            </th>
+            <th>
+                Date Added
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem =>  item.tracks.Artists.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tracks.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+
+
+

@@ -1,0 +1,50 @@
+﻿@model OpenMic.Models.IndexViewModel
+
+@{
+    ViewBag.Title = "Personal Profile";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<hr />
+<div>
+    <table>
+        <tr>
+            <td width="150px" text-align="left">
+                <dl>
+                    <dt>
+                        <img src=@ViewBag.pic alt="profile" height="120" width="120">
+                    <dt> @ViewBag.Name</dt>
+
+                </dl>
+            </td>
+            <td valign="top">
+                <dl>
+                    <dt>Birth Date: @ViewBag.UserBD</dt>
+                    <dt>Genre: @ViewBag.Genre</dt>
+                    <dt>Email: @ViewBag.UserName</dt>
+                    <dt>Special Permissions: @ViewBag.Role</dt>
+                    <dt></dt>
+                    @Html.ActionLink("Your Art", "Uploaded", "Tracks")
+                </dl>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p>
+    Change Password: 
+    [
+    @if (Model.HasPassword)
+    {
+        @Html.ActionLink("Change your password", "ChangePassword")
+    }
+    else
+    {
+        @Html.ActionLink("Create", "SetPassword")
+    }
+    ]
+</p>
+
+

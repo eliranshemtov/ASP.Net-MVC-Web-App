@@ -1,0 +1,360 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    height: auto;
+    min-height: 100%;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    height: auto;
+    
+    min-height: 100%;
+    padding-bottom: 3em;
+}
+
+	aside {
+		/*display: table-cell;*/
+        position: fixed;
+        top: 10%; bottom: 7%; left: 72%;
+        margin-bottom: 4%;
+        padding-right: %;
+		width: 20%;
+		background: #303030;
+        border-radius: 25px;
+	}
+
+    @font-face{
+        font-family: openMicFont;
+        src: url(Rockit.ttf);
+    }
+
+    h3{
+        font-family: openMicFont;
+    }
+    aside section {
+        width:95%;
+	    margin: 7% 0%  0% 3%;
+	    padding: 7% 20% 10% 10%;
+        color: white;
+	    /* Border-radius not implemented yet */
+	    -moz-border-radius: 11px;
+	    -webkit-border-radius: 11px;
+    }
+
+
+    
+
+	aside section ul {
+        width: 120%;
+		margin: 0 5% 20% -15%;
+		list-style: none;
+	}
+    	
+	aside section ul li a {
+		display: block;
+	    text-decoration: none;
+		color: #999;
+	}
+	
+	aside section ul li a:hover {
+		text-decoration: none;
+              color: white;
+	}
+
+
+.transHeader {
+    width: 15%;
+    height: 20%;
+    background: #F4F4F4;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+    	    -moz-border-radius: 11px;
+	    -webkit-border-radius: 11px;
+}
+
+.transHeader:hover{
+    width: 75%;
+}
+
+.vidBlur video{
+    -webkit-filter: blur(5px);
+}
+
+.vidBlur video:hover{
+    -webkit-filter: blur(0px);    
+}
+
+.shadow{
+    margin-right: 0;
+    color: black;
+    text-shadow: 1px 1px #58584C;
+    font-size:40px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.dropdown a{
+    text-decoration-color:coral;
+}
+
+
+a.gold{
+    background: url(Images/Gold.gif) no-repeat top left;
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-indent: -9999px;
+    float: left;
+    margin-left: 3%;
+    padding-left: 13%;
+}
+a.trash{
+    background: url(Images/Trash.gif) no-repeat top left;
+    display: block;
+    width: 34px;
+    height: 30px;
+    text-indent: -9999px;
+    float: left;
+}
+
+.footerlinks{
+    color: white;
+    font-size: smaller;
+}
+
+footer {
+	position: fixed;
+    margin: 0;
+    padding: 10px;
+	left: 0;
+	width: 100%;
+    height:100px;
+	background: #222;
+    bottom:0;
+    left:0;
+}
+
+
+	footer h4 {
+		color: #FFF;
+	}
+	
+	footer a {
+		color: #999;
+	}
+	
+		footer a:hover {
+			color: #FFF;
+			text-decoration: none;
+		}
+
+.fblogo{
+    width: 150px;
+    height: 47px;
+    position: absolute;
+    right: 0px;
+    left: 87%;
+    top: 20%;
+    
+}
+
+.micpic1{
+    margin-right: 300px;
+    margin-bottom: 120px;
+}
+
+.YourMic{
+    margin-left: 40%;
+    margin-right: 80%;
+    margin-top: 10%;
+    width: 400px;
+}
+.loginform{
+    width: 200%;
+}
+
+.manageTracks{
+    border-style: solid;
+    border-color: #2E2E1F;
+    border-width: 10px;
+    width: 75%;
+}
+
+
+
+
+
+/*Thoughts panel*/
+
+#nav{list-style:none;margin: 0px;padding: 0px;}
+#nav li {
+float: left;
+margin-right: 20px;
+font-size: 14px;
+font-weight:bold;
+}
+#nav li a{color:#999;text-decoration:none}
+#nav li a:hover{color:red;text-decoration:none}
+
+#notification_li
+{
+position:relative
+}
+.notificationContainer 
+{
+background-color: #fff;
+border: 1px solid rgba(100, 100, 100, .4);
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: absolute;
+top: 30px;
+margin-left: -170px;
+width: 400px;
+z-index: 1000;
+display: none; /*// Enable this after jquery implementation */
+}
+
+.activeNotificationContainer{
+display: block; 
+}
+/*popup arrow*/
+.notificationContainer:before {
+content: '';
+display: block;
+position: absolute;
+width: 0;
+height: 0;
+color: transparent;
+border: 10px solid black;
+border-color: transparent transparent white;
+margin-top: -20px;
+margin-left: 188px;
+}
+.notificationTitle
+{
+font-weight: bold;
+padding: 8px;
+font-size: 13px;
+background-color: #ffffff;
+position: absolute;
+z-index: 1000;
+width: 384px;
+border-bottom: 1px solid #dddddd;
+}
+#notificationsBody
+{
+padding: 33px 0px 0px 0px !important;
+min-height:300px;
+}
+.notificationFooter
+{
+background-color: #e9eaed;
+text-align: center;
+font-weight: bold;
+padding: 8px;
+font-size: 12px;
+border-top: 1px solid #dddddd;
+}
+
+#notification_count 
+{
+padding: 3px 7px 3px 7px;
+background: #cc0000;
+color: #ffffff;
+font-weight: bold;
+margin-left: 70px;
+border-radius: 9px;
+-moz-border-radius: 9px; 
+-webkit-border-radius: 9px;
+position: absolute;
+margin-top: 0px;
+font-size: 11px;
+}
+
+/* Add A Comment */
+
+#cover {
+    position:fixed;
+    top:0;
+    left:0;
+    background:rgba(0,0,0,0.6);
+    z-index:5;
+    width:100%;
+    height:100%;
+    display:none
+}
+
+#addComment {
+    height:400px;
+    width:400px;
+    position: fixed;
+    top: 20%;
+    right: 40%;
+    z-index:1000000;
+    display:none;
+    background:#DEDEDE;
+    border:5px solid #ccc;
+    border-radius:10px
+}
+
+#addComment:target,#addComment:target + #cover {
+    display:block;
+    opacity:2;
+}
+
+#cancelAddComment {
+    display:block;
+    position:absolute;
+    top:3px;
+    right:2px;
+    background:#f5f5f5;
+    color:red;
+    height:35px;
+    width:35px;
+    font-size:30px;
+    text-decoration:none;
+    text-align:center;
+    font-weight:700
+}
+#cancelAddComment a:hover{
+    text-decoration: none;
+}
+
+.actionlink{
+    color: red;
+    font-size:larger;
+}
+.thinkingMusic{
+    width: 30%;
+    margin-left: 45%;
+    margin-top: -25%;
+    
+}
+
+.AboutPic{
+    width:40%;
+    margin-left: 5%;
+}
+
+.namesLinks{
+    font-size: x-small;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    margin-left: 7%;
+}

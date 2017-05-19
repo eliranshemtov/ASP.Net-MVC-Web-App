@@ -1,0 +1,1190 @@
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\OpenMic.dll.config
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\OpenMic.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\OpenMic.pdb
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\EntityFramework.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Owin.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Razor.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\WebGrease.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.Razor.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\EntityFramework.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+c:\users\eliran\documents\visual studio 2013\Projects\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.InitialCreate.resources
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Keinan Top\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.Birthdate.resources
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.InitialCreate.resources
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.Birthdate.resources
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.addition.resources
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.InitialCreate.resources
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.Birthdate.resources
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.addition.resources
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\2222\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.eliran222.resources
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.InitialCreate.resources
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.Birthdate.resources
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.addition.resources
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.eliran222.resources
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2222\2222\226-1840\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.eliran22222.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.InitialCreate.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.Birthdate.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.addition.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.eliran222.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.eliran22222.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.video1.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.video11.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.rank1.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.rankers.resources
+C:\Users\Eliran\Desktop\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.trashgold.resources
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\1618\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\good\OpenMic\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\topke\Desktop\2010\OpenMic\bin\OpenMic.dll.config
+C:\Users\topke\Desktop\2010\OpenMic\bin\OpenMic.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\OpenMic.pdb
+C:\Users\topke\Desktop\2010\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\EntityFramework.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Owin.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Razor.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\WebGrease.dll
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.Razor.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\topke\Desktop\2010\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\EntityFramework.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\topke\Desktop\2010\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2010\2010\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\topke\Desktop\2010\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\1945\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\פרויקט אינטרנטיות\2000\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\OpenMic.dll.config
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\OpenMic.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\EntityFramework.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Owin.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\WebGrease.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\EntityFramework.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Keinan Top\Desktop\2000\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\2316\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\controllerstest\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\1235\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\OpenMic.dll.config
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\OpenMic.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\OpenMic.pdb
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\EntityFramework.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Owin.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\WebGrease.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\EntityFramework.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Keinan Top\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\Eliran\OpenMic\obj\Debug\OpenMic.pdb
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\OpenMic.dll.config
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\OpenMic.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\OpenMic.pdb
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Antlr3.Runtime.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\EntityFramework.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\EntityFramework.SqlServer.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Owin.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Helpers.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Mvc.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Optimization.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Razor.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\WebGrease.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Helpers.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Mvc.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Optimization.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.Razor.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Antlr3.Runtime.pdb
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Newtonsoft.Json.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\EntityFramework.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\EntityFramework.SqlServer.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.csprojResolveAssemblyReference.cache
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.Migrations.init.resources
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.Migrations.artists.resources
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.Migrations.inttostring.resources
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.Migrations.nextShow.resources
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.csproj.GenerateResource.Cache
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.dll
+C:\Users\Eliran\Desktop\CurrentAlmostFinal\OpenMic\obj\Debug\OpenMic.pdb

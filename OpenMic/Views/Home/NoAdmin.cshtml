@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Sorry";
+}
+<h2>@ViewBag.Title,</h2>
+<h3>@ViewBag.Message</h3>
+
+<table>
+    <td>
+        <h4><b>you don't have any admin privileges</b></h4>
+        <p>
+            You may try to <a href="javascript:document.getElementById('logoutForm').submit()">Log off</a> and then log in with an admin account.<br />
+            Or You can ask us for those rights via <a href="mailto:GetAdminRights@OpenMic.com">mail</a>. <br /><br />
+            For further help, please contact our <a href="mailto:GetAdminRights@OpenMic.com">support team</a>.
+</p>
+
+        <br />
+        <br />
+        <address>
+            <strong>Get Admin Rights:</strong>   <a href="mailto:GetAdminRights@OpenMic.com">GetAdminRights@OpenMic.com</a><br />
+            <strong>Support:</strong> <a href="mailto:Support@OpenMic.com">Support@OpenMic.com</a>
+        </address>
+    </td>
+    <td>
+        <img src="~/Content/Images/sorry.gif" style="margin-left:15%;">
+    </td>
+</table>

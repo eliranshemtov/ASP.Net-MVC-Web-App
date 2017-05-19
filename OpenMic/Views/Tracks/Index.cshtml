@@ -1,0 +1,192 @@
+﻿@model IEnumerable<OpenMic.Models.Track>
+
+@{
+    ViewBag.Title = "Discover";
+}
+
+@* Gold+Trash Graph Declerations *@
+<script src="http://d3js.org/d3.v3.min.js" language="JavaScript"></script>
+<script src="~/Content/liquidFillGauge.js" language="JavaScript"></script>
+<style>
+    .liquidFillGaugeText {
+        font-family: Helvetica;
+        font-weight: bold;
+    }
+</style>
+
+
+<h2>Discover Music</h2>
+
+<h3>@ViewBag.error</h3>
+
+<p>
+    @Html.ActionLink("Upload your own", "Create")
+
+    @using (Html.BeginForm("Index", "Tracks", FormMethod.Get))
+    {
+    <p>
+        <b> Genre:</b> @Html.DropDownList("trackGenre", "All") &nbsp;
+        <b> Artist:</b> @Html.TextBox("artist") &nbsp;
+        <b> Title:</b> @Html.TextBox("SearchString") &nbsp;
+        <b> Thought:</b> @Html.TextBox("thoughtContent") &nbsp;<br /><br />
+        <input type="submit" value="Filter" /><br /><br />
+        @Html.ActionLink("Thought Searcher", "ThoughtSearcher")
+    </p>
+    }
+
+    </p>
+
+    @{int i = 1;}
+    <table class="table">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @{var pic = Html.DisplayFor(modelItem => item.Artists.Img);}
+                    <img src="@pic" width="80" height="80" />   <br />
+                    @Html.DisplayFor(modelItem => item.Artists.Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title) &nbsp;&nbsp;
+                    @Html.Label(item.Date.ToShortDateString())
+                    <br />
+                    @{var vid = Html.DisplayFor(modelItem => item.Video);}
+                    
+                    <div class="videoDiscover">
+                        <iframe width="300" height="170" src=@vid frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </td>
+                <td>
+                    <br /><br /><b>Genre:</b>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                    <br />Gold:@Html.DisplayFor(modelItem => item.Gold)    |   Trash:@Html.DisplayFor(modelItem => item.Trash)  |   Ranked:@Html.DisplayFor(modelItem => item.TotalRankers)
+                    <br />
+                    @{string goldName = "GoldGreen" + i.ToString();}
+                    @{string trashName = "TrashRed" + i.ToString();}
+                    <svg id=@goldName width="70px" height="70px"></svg>
+                    <svg id=@trashName width="70px" height="70px"></svg>
+                    @{i++;}
+
+                    @if (Context.User.Identity.IsAuthenticated)
+                    {
+                        var tid = item.ID;
+                        <div class="oneline">
+                        @if (@ViewBag.CurUserID != item.ArtistsID) { 
+                            @Html.ActionLink("Gold", "Gold", new { id = @tid }, new { @class = "gold" })
+                            @Html.ActionLink("Trash", "Trash", new { id = @tid }, new { @class = "trash" })
+                        }
+                    <span class="tab"></span>
+                        </div>
+                    }
+                    <br />
+
+                    @if ((@ViewBag.CurUserID == item.ArtistsID) || (User.IsInRole("admin")))
+                    {
+                        
+                        @Html.ActionLink("Edit ", "Edit", new { id = item.ID })
+                        @Html.Label("|")
+                        @Html.ActionLink(" Delete ", "Delete", new { id = item.ID })
+                        @Html.Label("|") }
+                    @Html.ActionLink("Details", "Details", new { id = item.ID })
+
+
+
+                   
+
+
+                    <ul id="nav">
+                        <li id="notification_li">
+                            <span id="notification_count">@item.Thoughts.Count()</span>
+                            <a href="javascript:void(0);" id="@("notificationLink"+item.ID)" onclick=openThoughts(@("notificationContainer"+item.ID).id)>Thoughts</a>
+                            <div id="@("notificationContainer"+item.ID)" class="notificationContainer">
+                                <div id="notificationTitle" class="notificationTitle">Thoughts</div>
+                                <div id="notificationsBody" class="notificationsBody">
+                                    <ul>
+                                        <br />
+                                        @{var j = 0;}
+                                        @foreach (var thought in item.Thoughts)
+                                        {
+                                            j++;
+                                            Write('"');
+                                            Write(thought.Content);
+                                            Write('"');
+                                            <br />
+                                            if (j > 10)
+                                            {
+                                                break;
+                                            }
+                                        }
+                                    </ul>
+                                </div>
+                                <div id="notificationFooter" class="notificationFooter">
+                                    <a href="~/Tracks/thoughtindex?trackId=@item.ID" id="seeAll">See All</a>&emsp;&emsp;&emsp;
+                                   
+                                    <a href="~/Tracks/AddThought?trackId=@item.ID" id="seeAll">Add an anonymous Thought</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <br />
+                    <br /><br />
+                </td>
+                <td></td>
+            </tr>
+        }
+    </table>
+
+        @if (User.IsInRole("admin")) {
+            <text> <b>Demonstrating GroupBy - Tracks Per Ranks for Admin user:</b><br/>  </text>
+            foreach (var item in ViewBag.ranked)
+            {
+                <text> @item </text>
+            }
+        }
+
+
+@* JS function for the display of the trash and gold % *@
+    <script language="JavaScript">
+        var goldenString = '@ViewBag.golden'
+        var goldenParsedString = goldenString.split(",");
+        var trashedString = '@ViewBag.trashed'
+        var trashedParsedString = trashedString.split(",");
+        window.onload  = function(){
+            init();};
+        function init(){
+            for (j = 1; j < @i; j++) {
+                // Gold (Green)
+                var config1 = liquidFillGaugeDefaultSettings();
+                config1.circleColor = "#33CC33";
+                config1.textColor = "#33CC33";
+                config1.waveTextColor = "#33CC33";
+                config1.waveColor = "#99E699";
+                var goldCircle = loadLiquidFillGauge("GoldGreen"+j.toString(),goldenParsedString[j-1], config1);
+                // Trash (Red)
+                var config2 = liquidFillGaugeDefaultSettings();
+                config2.circleColor = "#FF3300";
+                config2.textColor = "#FF3300";
+                config2.waveTextColor = "#FF3300";
+                config2.waveColor = "#FFC2B3";
+                var trashCircle = loadLiquidFillGauge("TrashRed" + j.toString(), trashedParsedString[j-1], config2);
+            }
+        }
+    </script>
+
+<script type="text/javascript" src="~/Content/jquery.min.js"></script>
+<script type="text/javascript">
+
+    // Gets the thoughts container/link id and toggles it
+    function openThoughts(id){
+        var currentThought =  document.getElementById(id);
+ 
+        // Fetching Element id by jQuery
+        var current = $("#" +id);
+        if (current.hasClass('activeNotificationContainer')){
+            current.removeClass('activeNotificationContainer')
+        }
+        else {
+            current.addClass('activeNotificationContainer');
+        }
+    }
+</script>
+

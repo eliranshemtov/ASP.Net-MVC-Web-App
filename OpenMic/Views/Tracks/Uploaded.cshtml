@@ -1,0 +1,70 @@
+﻿@model IEnumerable<OpenMic.Models.Track>
+
+@{
+    ViewBag.Title = "Art";
+}
+
+<h2>@ViewBag.currentUser's Art</h2>
+@Html.ActionLink("Upload More!", "Create")
+
+    <table class="table" style="width:80%;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Video)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+
+            <th>
+                Rank
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+
+                </td>
+                <td>
+
+                    
+                </td>
+
+                <td>
+                    @{var vid = Html.DisplayFor(modelItem => item.Video);}
+                    <iframe width="300" height="170" src=@vid frameborder="0" allowfullscreen></iframe>
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+
+                <td>
+                    Gold:@Html.DisplayFor(modelItem => item.Gold)    |   Trash:@Html.DisplayFor(modelItem => item.Trash)  |   Ranked:@Html.DisplayFor(modelItem => item.TotalRankers)
+                </td>
+
+                <td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>
+
